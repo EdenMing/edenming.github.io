@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edenming.github.io/sitemap.xml
